@@ -147,7 +147,11 @@ h3.tem-heading {
 	border: 1px solid #f5f5f5;
 	vertical-align: top;
 }
-
+.item-desc-con ol,
+.item-desc-con ul {
+	text-align: left;
+	margin-bottom: 15px;
+}
 
 /* Privacy Policy */
 
